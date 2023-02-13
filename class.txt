@@ -5,9 +5,11 @@ Cyan
 Yellow
 Ivory
 Khaki
-Coral
 Silver
 Fuchsia
 Gray
 Brown
 Red
+Black
+White
+Gold
